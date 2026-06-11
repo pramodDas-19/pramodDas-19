@@ -1,18 +1,4 @@
-<!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Pramod Das</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Node.js+%7C+React.js+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Production-Ready+Solutions" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
-  </a>
-</p>
-
----
 
 <!-- ========================= HEADER ========================= -->
 
