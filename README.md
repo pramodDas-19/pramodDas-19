@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pramodDas-19&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/pramodDas-19?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/pramodDas-19?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
