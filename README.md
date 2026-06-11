@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pramodDas-19&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=pramodDas-19&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/pramodDas-19?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/pramodDas-19?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -132,7 +134,3 @@
 🚀 Building scalable digital solutions, optimizing performance, and turning ideas into production-ready products.
 </h3>
 
-
-<h3 align="center">
-💡 I engineer scalable digital systems that transform ideas into reliable, production-ready solutions.
-</h3>
